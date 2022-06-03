@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryanjm38
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL and Tableau
+- 🌱 I've just finished learning SQL and Tableau!
 
 
 <!---
